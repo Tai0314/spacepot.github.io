@@ -1,2 +1,2 @@
-# spacepot.github.io
+# spaceshot.github.io
 Created with CodeSandbox
